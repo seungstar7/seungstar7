@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungstar7&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" onclick="onclicker()"/>
 <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
 <img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" />
 <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />
@@ -19,6 +19,11 @@
 <img src="https://img.shields.io/badge/mariadb-20232a.svg?style=for-the-badge&logo=mariadb&logoColor=#003545" />
 <img src="https://img.shields.io/badge/MSsqlserver-20232a.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=#CC2927" />
 <img src="https://img.shields.io/badge/webpack-20232a.svg?style=for-the-badge&logo=webpack&logoColor=#8DD6F9" />
+<script>
+  const onclicker = () => {
+    alert("dsd");
+  }
+</script>
 <!--
 **seungstar7/seungstar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
