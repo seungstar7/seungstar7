@@ -11,8 +11,13 @@
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
-<img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=##6DB33F" />
-<img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=##6DB33F" />
+<img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=#6DB33F" />
+<img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />
+<img src="https://img.shields.io/badge/npm-20232a.svg?style=for-the-badge&logo=npm&logoColor=#CB3837" />
+<img src="https://img.shields.io/badge/vuedotjs-20232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D" />
+<img src="https://img.shields.io/badge/oracle-20232a.svg?style=for-the-badge&logo=oracle&logoColor=#F80000" />
+<img src="https://img.shields.io/badge/mariadb-20232a.svg?style=for-the-badge&logo=mariadb&logoColor=#003545" />
+<img src="https://img.shields.io/badge/microsoftsqlserver-20232a.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=#CC2927" />
 <!--
 **seungstar7/seungstar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
