@@ -10,7 +10,7 @@
 </p>
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
+<img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
 <!--
 **seungstar7/seungstar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
