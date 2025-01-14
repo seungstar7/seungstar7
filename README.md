@@ -2,7 +2,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shkim0922)](https://solved.ac/shkim0922)
 
-[![seungstar7's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungstar7)](https://github.com/seungstar7/github-readme-stats)
+<!--[![seungstar7's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungstar7)](https://github.com/seungstar7/github-readme-stats)-->
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seungstar7&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
@@ -19,11 +19,7 @@
 <img src="https://img.shields.io/badge/mariadb-20232a.svg?style=for-the-badge&logo=mariadb&logoColor=#003545" />
 <img src="https://img.shields.io/badge/MSsqlserver-20232a.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=#CC2927" />
 <img src="https://img.shields.io/badge/webpack-20232a.svg?style=for-the-badge&logo=webpack&logoColor=#8DD6F9" />
-<script>
-  const onclicker = () => {
-    alert("dsd");
-  }
-</script>
+
 <!--
 **seungstar7/seungstar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
