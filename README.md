@@ -1,6 +1,8 @@
 ### 늘 새로운 경험을 추구하기 위해 노력하는 개발자
 
 이력서 및 경력 기술 : https://seungstar7.github.io/NextResume/
+
+<br/>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shkim0922)](https://solved.ac/shkim0922)
 
 <!--[![seungstar7's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungstar7)](https://github.com/seungstar7/github-readme-stats)-->
