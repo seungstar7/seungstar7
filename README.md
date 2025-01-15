@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/webpack-20232a.svg?style=for-the-badge&logo=webpack&logoColor=#8DD6F9" />
 </div>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shkim0922)](https://solved.ac/shkim0922)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shkim0922)](https://solved.ac/shkim0922)-->
 
 <!--
 **seungstar7/seungstar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
