@@ -18,7 +18,7 @@
 [![Email](https://img.shields.io/badge/Email-shkim930922%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shkim930922@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-010--4203--2996-4B9C3C?style=flat-square&logo=telephone&logoColor=white)](tel:010-4203-2996)
 [![GitHub](https://img.shields.io/badge/GitHub-seungstar7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seungstar7)
-[![My Resume](https://img.shields.io/badge/Resume-myResume-007BFF?style=flat-square&logo=notion&logoColor=white)]([https://seungstar7-resume.vercel.app](https://my-resume-git-develop-dev-seung-s-projects.vercel.app/)
+[![My Resume](https://img.shields.io/badge/Resume-myResume-007BFF?style=flat-square&logo=notion&logoColor=white)](https://my-resume-git-develop-dev-seung-s-projects.vercel.app/)
 
 </div>
 
